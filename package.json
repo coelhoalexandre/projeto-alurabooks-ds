@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "projeto-alurabooks-ds",
+  "name": "projeto-react-alurabooks-ds",
   "author": "Alexandre Coelho",
   "module": "dist/ds-alurabooks-base.esm.js",
   "size-limit": [
